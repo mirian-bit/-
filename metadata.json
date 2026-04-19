@@ -1,0 +1,6 @@
+{
+  "name": "高效率自動排班系統",
+  "description": "具備課組資料隔離、假別保護與 Excel 匯入匯出功能的自動化排班引擎",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
